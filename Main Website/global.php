@@ -4,7 +4,7 @@ if($usr['Admin'] == "false"){
 }
 
 ob_start();
-	$mysqli = new mysqli("server306.web-hosting.com","rainmfma_rainway","H[-&6tapRsY0","rainmfma_database");
+	$mysqli = new mysqli("sql6.freesqldatabase.com","sql6491278","6IebBW9dyx","sql6491278");
 		global $mysqli;	
 		
 
